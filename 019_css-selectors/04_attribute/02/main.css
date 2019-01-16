@@ -1,7 +1,7 @@
 [src] {
-    border: 10px dashed red;
+    border: 10px dashed rgb(46, 125, 161);
 }
 
 [href] {
-    border: 2px dashed green;
+    border: 2px dashed rgb(149, 151, 35);
 }
